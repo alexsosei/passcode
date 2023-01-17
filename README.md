@@ -10,6 +10,7 @@ This Passcode generator is built to assist users to generate unique passcodes as
  
  ## Usage
 Application View is provided in screenshot below.
+![alt text] (assets/images/Screenshot 2023-01-17 at 16.07.58.png)
 
  
  
