@@ -11,7 +11,7 @@ This Passcode generator is built to assist users to generate unique passcodes as
  ## Usage
 Application View is provided in screenshot below.
 
- ## Credit
- www.github.com/kyboahene 
+ 
+ 
  ## License
  Project is licensed under MIT License
