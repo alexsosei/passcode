@@ -6,7 +6,7 @@ This Passcode generator is built to assist users to generate unique passcodes as
 -Characters of password having lowercase, uppercase,numeric and special characters i.e. $@% etc.
 
  ## Installation
- Application is deployed from Github account
+ Application is deployed from Github account https://alexsosei.github.io/passcode/ 
  
  ## Usage
 Application View is provided in screenshot below.
